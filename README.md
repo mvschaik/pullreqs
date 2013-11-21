@@ -9,7 +9,7 @@ Installation
 
 1. Create a Github personal access token on https://github.com/settings/applications
 2. Put the token in the GITHUB\_TOKEN variable in your environment, f.i. by 
-   adding `export GITHUB_TOKEN='your\_token\_here'` to ~/.bashrc
+   adding `export GITHUB_TOKEN='your_token_here'` to ~/.bashrc
 3. Checkout pullreqs from github and install deps by running `pip install -r dependencies.txt`
 4. Put pullreqs.py in your path
 
