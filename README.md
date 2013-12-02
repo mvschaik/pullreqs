@@ -1,7 +1,9 @@
 pullreqs
 ========
 
-Fetch all open pull requests from Github
+Fetch all open pull requests from Github.
+
+**NOTE**: Github has this functionality, just go to https://github.com/dashboard/pulls or to https://github.com/organizations/:name/dashboard/pulls.
 
 
 Installation
